@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/space-station-tracker/static/css/main.75fa500c.css",
+    "main.js": "/space-station-tracker/static/js/main.e4fe95fe.js",
+    "static/js/787.9e6938fa.chunk.js": "/space-station-tracker/static/js/787.9e6938fa.chunk.js",
+    "static/media/spacestation-logo.png": "/space-station-tracker/static/media/spacestation-logo.6c1e6f845e31cf159a92.png",
+    "index.html": "/space-station-tracker/index.html",
+    "main.75fa500c.css.map": "/space-station-tracker/static/css/main.75fa500c.css.map",
+    "main.e4fe95fe.js.map": "/space-station-tracker/static/js/main.e4fe95fe.js.map",
+    "787.9e6938fa.chunk.js.map": "/space-station-tracker/static/js/787.9e6938fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75fa500c.css",
+    "static/js/main.e4fe95fe.js"
+  ]
+}

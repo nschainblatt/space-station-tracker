@@ -1,0 +1,65 @@
+html, body, .App {
+  text-align: center;
+  background: #090b0c;
+  color: white;
+  height: 100%;
+  overflow: hidden;
+}
+
+h1 {
+  padding-left: 2rem;
+  text-align: left;
+  width: 100%;
+  border-bottom: 2px solid #2d383a;
+} 
+
+.info {
+  display: flex;
+  gap: 10rem;
+  justify-content: center;
+  margin-left: 2.8rem;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+}
+
+.update {
+  padding: 5rem;
+}
+
+button {
+  padding: .5rem 2rem;
+  border-radius: 0.5rem;
+  background: #171c1d;
+  color: white;
+  transition: 0.5s ease;
+}
+
+button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 5rem #2d383a;
+}
+
+#issLogo {
+  padding: 5rem;
+  width: 20rem;
+  transition: 0.5s ease;
+}
+
+#issLogo:hover {
+  transform: scale(1.3);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  #issLogo {
+    animation: App-logo-spin infinite 30s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
